@@ -1,1 +1,1 @@
-# Kidney-Disease-Classification-Prject
+# Kidney-Disease-Classification-Project
